@@ -1,0 +1,102 @@
+{
+  "HomePage": {
+    "title": "Merhaba dünya!"
+  },
+  "about": {
+    "title": "Merhaba hakkında!"
+  },
+  "hello": "merhaba",
+  "common": {
+    "loading": "Yükleniyor...",
+    "success": "İşlem başarılı",
+    "error": "Bir şeyler yanlış gitti!"
+  },
+  "nav": {
+    "home": "ana sayfa",
+    "about": "hakkında",
+    "services": "hizmetler",
+    "blogs": "bloglar",
+    "blog": "blog",
+    "contact": "iletişim"
+  },
+  "titles": {
+    "contact_us": "Bize Ulaşın",
+    "explore": "keşfet",
+    "read": "Oku",
+    "about_us": "Hakkımızda",
+    "services": "Hizmetler",
+    "our_luxurious_services": "Lüks Hizmetlerimiz",
+    "blogs": "Bloglar"
+  },
+  "buttons": {
+    "download_our_app": "uygulamamızı indir",
+    "language": "dil",
+    "send": "Gönder",
+    "filter": "Filtrele",
+    "view_services": "Hizmetleri Görüntüle",
+    "explore_now": "Şimdi Keşfet",
+    "send_email": "E-posta Gönder"
+  },
+  "labels": {
+    "first_name": "Ad",
+    "last_name": "Soyad",
+    "email": "E-posta",
+    "explore_our_services": "Hizmetlerimizi Keşfedin",
+    "name": "İsim",
+    "clients": "Müşteriler",
+    "requests": "Talepler",
+    "inquiries": "Sorgular",
+    "promotion": "Promosyon",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "start_date": "Başlangıç Tarihi",
+    "end_date": "Bitiş Tarihi",
+    "from_our_gallery": "Galerimizden",
+    "need_more_details": "Daha Fazla Detay Gerekli mi?",
+    "search_something": "Bir şey ara...",
+    "interesting_services": "İlginç Hizmetler",
+    "phone_number": "Telefon Numarası",
+    "your_message": "Mesajınız",
+    "search_our_services": "Hizmetlerimizi Ara",
+    "connect_with_iconcierge": "iConcierge ile Bağlan",
+    "contact_paragraph": "Hayalinizdeki El Gouna deneyimini gerçekleştirmeye hazır mısınız? Formu doldurun ve ekibimiz sorularınızı yanıtlamak ve vizyonunuzu hayata geçirmek için sizinle iletişime geçecektir.",
+    "Search_something": "Bir şey ara...",
+    "promotion_section": {
+      "title": "Hizmetlerimizi Keşfedin ve Hayalinizdeki Kaçışı Gerçekleştirin",
+      "paragraph": "Hayalinizdeki kaçışı gerçekleştirin, ister özel kulüplerde gece boyunca dans edin, ister El Gouna'nın benzersiz perspektifini görmek için özel bir yat macerasına çıkın, ister dünya çapında bir yemek deneyiminin tadını çıkarın. Lüks hizmetlerimizi keşfedelim – ulaşım, gece hayatı, yatlar, restoranlar ve daha fazlası."
+    },
+    "promotion_about_us": {
+      "title": "Lüks Yeniden Tanımlandı: iConcierge El Gouna Deneyiminizi Yükseltiyor",
+      "paragraph": "Lüks balayı ve unutulmaz aile maceralarından sorunsuz iş gezilerine ve heyecan verici müzik etkinliklerine kadar her şeyi biz hallediyoruz, böylece gerçekten önemli olan şeye odaklanabilirsiniz: ömür boyu sürecek anılar yaratmak."
+    },
+    "explore_services_about_us": {
+      "title": "Fikirler Açıldı",
+      "paragraph": "El Gouna'nın lüksünde rahatlayıp keyfini çıkarma zamanı, iConcierge'in kişiselleştirilmiş hizmetleriyle arzularınıza göre tasarlandı. Uçuş rezervasyonlarından ve araba kiralamalarından en özel deneyimlerde rezervasyon yapmaya kadar her detayı biz hallediyoruz. Profesyonel personelin yardımıyla huzurun tadını çıkarırken el yapımı güzergahlarımızla keşfedeceksiniz."
+    }
+  },
+  "home": {
+    "hero_title": "El Gouna'da Lüks Konaklama ve Aktivitelerin Keyfini Çıkarın",
+    "search": "Ara",
+    "search_something": "Bir şey ara",
+    "people": "Geçen hafta El Gouna'da 40+ kişi talepte bulundu",
+    "luxury": "El Gouna'da Lüks konsiyerj hizmetleri",
+    "welcome": "Hoş geldiniz",
+    "iConcierge": "iConcierge El",
+    "gouna": "Gouna",
+    "imagine": "Uçaktan inip tamamen arzularınıza göre tasarlanmış bir dünyaya adım attığınızı hayal edin. iConcierge rehberiniz olduğunda, bu rüya gerçek olur. Otel rezervasyonları, ulaşım, restoranlar, aktiviteler ve aradaki her şey – iConcierge bunu zahmetsiz hale getirir. Bu yüzden arkanıza yaslanın, rahatlayın ve El Gouna deneyiminizi unutulmaz kılmamıza izin verin!",
+    "about_us": "Hakkımızda",
+    "life_style": "Yaşam Tarzı",
+    "navigate": "Canlı sahneyi yönlendireceğiz, sizi en sıcak gece kulüplerine, yerel ve uluslararası sanatçılardan büyüleyici canlı müzik sunan samimi kokteyl salonlarına ve benzersiz deneyimler sunan gizli barlara yönlendireceğiz.",
+    "explore": "Keşfet",
+    "pick": "Maceranı Seç",
+    "adrenaline": "Adrenalin pompalayan aktivitelerden daha sakin bir şeye kadar, iç keşifçinizi serbest bırakmak için geniş bir macera yelpazemiz var.",
+    "check": "Uygunluğu Kontrol Et",
+    "just": "Sadece birkaç tıklama ve bu destansı macerada yerinizi aldığınızdan emin olmak için gerçek zamanlı uygunluğu açacağız.",
+    "go": "Hadi Gidelim",
+    "dreams": "Hayaller kontrol edildi, lojistik kilitlendi – şimdi El Gouna maceranıza iConcierge ile başlama zamanı!",
+    "unwind": "Eşsiz lüks içinde rahatlayın: Hayalinizdeki kaçış iConcierge El Gouna'da sizi bekliyor"
+  },
+  "services": {
+    "iconcierge_el_gouna": "iConcierge El Gouna"
+  }
+}

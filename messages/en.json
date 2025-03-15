@@ -1,0 +1,96 @@
+{
+  "hello": "hi",
+  "common": {
+    "loading": "Loading...",
+    "success": "Operation success",
+    "error": "Something went wrong!"
+  },
+  "nav": {
+    "home": "home",
+    "about": "about",
+    "services": "services",
+    "blogs": "blogs",
+    "blog": "blog",
+    "contact": "contact"
+  },
+  "titles": {
+    "contact_us": "Contact Us",
+    "explore": "explore",
+    "read": "Read",
+    "about_us": "About Us",
+    "services": "Services",
+    "our_luxurious_services": "Our Luxurious Services",
+    "blogs": "Blogs"
+  },
+  "buttons": {
+    "download_our_app": "download our app",
+    "language": "language",
+    "send": "Send",
+    "filter": "Filter",
+    "view_services": "View Services",
+    "explore_now": "Explore Now",
+    "send_email": "Send Email"
+  },
+  "labels": {
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "explore_our_services": "Explore Our Services",
+    "name": "Name",
+    "clients": "Clients",
+    "requests": "Requests",
+    "inquiries": "Inquiries",
+    "promotion": "Promotion",
+    "phone": "Phone",
+    "message": "Message",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "from_our_gallery": "From Our Gallery",
+    "need_more_details": "Need More Details ?",
+    "search_something": "Search Something...",
+    "interesting_services": "Interesting Services",
+    "phone_number": "Phone Number",
+    "your_message": "Your Message",
+    "search_our_services": "Search Our Services",
+    "connect_with_iconcierge": "Connect With iConcierge",
+    "contact_paragraph": "Ready to craft your dream El Gouna experience? Simply fill out the form and our team will be in touch to answer any questions and bring your vision to life.",
+    "Search_something": "Search something...",
+    "promotion_section": {
+      "title": "Explore our Services and Craft your Dream Escape",
+      "paragraph": "Craft your dream escape, whether it's dancing the night away at exclusive clubs, embarking on a private yacht adventure for a unique perspective of ElGouna to indulging in a world class dining experience. Let’s explore our countless luxury services – transportation, nightlife, yachts, restaurants, and more."
+    },
+    "promotion_about_us": {
+      "title": "Luxury Redefined: iConcierge elevates your El Gouna Experience",
+      "paragraph": "From luxurious honeymoons and unforgettable family adventures to seamless business trips and electrifying musical events, we handle everything so you can focus on what truly matters: creating memories that last a lifetime."
+    },
+    "explore_services_about_us": {
+      "title": "Insights Unlocked",
+      "paragraph": "It's time to unwind and indulge in El Gouna's luxury, tailored to your desires with iConcierge's personalized services. We handle every detail, from seamless flight bookings and car rentals to securing reservations at the most exclusive experiences El Gouna has to offer. You will get to explore with our handcrafted itineraries while immersing yourself in tranquility with the assistance of professional staff."
+    }
+  },
+  "home": {
+    "hero_title": "Enjoy Luxury Stay and Activities in El Gouna",
+    "search": "Search",
+    "search_something": "Search_something",
+    "people": "40+ people made requests past week in El Gouna",
+    "luxury": "Luxury concierge services in El Gouna",
+    "welcome": " Welcome to",
+    "iConcierge": "iConcierge El",
+    "gouna": "Gouna",
+    "imagine": "Imagine stepping off the plane and into a world crafted entirely for your desires. With iConcierge as your guide, that dream becomes reality. Hotel bookings, transportation, restaurants, activities, and everything in between – iConcierge makes it effortless. So, sit back, relax, and allow us to make your El Gouna experience unforgettable!",
+    "about_us": "About Us",
+    "life_style": "Lifestyle",
+    "navigate": "We`ll navigate the vibrant scene, guiding you through the hottest nightclubs with pulse-pounding beats, intimate cocktail lounges featuring captivating live music from local and international artists, and hidden gem bars offering unique experiences.",
+    "explore": "Explore",
+    "pick": "Pick your Adventure",
+    "adrenaline": "From adrenaline-pumping activities to something more serene, we’ve got a wide selection of adventures to unleash your inner-explorer.",
+    "check": "Check Availability",
+    "just": "Just a few clicks, and we`ll unlock real-time availability, making sure you grab your spot on this epic adventure.",
+    "go": "Let`s Go",
+    "dreams": "Dreams checked, logistics locked in – now it`s time to embark on your El Gouna adventure with iConcierge!",
+    "unwind": "Unwind in unparalleled luxury: Your dream escape awaits at iConciergeEl Gouna"
+  },
+  "services": {
+    "iconcierge_el_gouna": "iConcierge El Gouna"
+  }
+}
